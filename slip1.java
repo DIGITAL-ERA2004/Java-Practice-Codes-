@@ -39,6 +39,7 @@ public class slip1{
             int num2 = scanner.nextInt();
             
             int result = num1 / num2;
+            int sum=num1+num2;
             System.out.println("Result: " + result);
 
         } catch (ArithmeticException e) {
