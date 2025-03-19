@@ -1,0 +1,45 @@
+.body{
+    display: flex;
+    height: 500px;
+    width: 100px;
+    margin:auto;
+    padding: 20%;
+}
+
+
+
+.black{
+    height: 300px;
+    width: 100px;
+    padding: 20px;
+    flex-direction: column;
+    border-radius: 20px;
+    display:flex;
+    justify-content: space-around;
+    align-items:center;   
+    background-color: black;
+    margin-inline-start:50%;
+    margin-top: 15%
+
+
+   
+}
+.red {
+width:60px ;
+height: 60px;
+border-radius:50%; 
+background-color:red ;
+}
+.yellow{
+    width:60px ;
+    height: 60px;
+    border-radius:50px; 
+    background-color: yellow ;
+    }
+
+    .green{
+        width:60px ;
+        height: 60px;
+        border-radius: 50px; 
+        background-color: green ;
+        }
